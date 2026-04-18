@@ -101,15 +101,15 @@ pizza-sales-sql/
 
 ### Total Orders
 
-![Total Orders](total_orders.png)
+![Total Orders](screenshots/total_orders.png)
 
 ### Revenue Calculation
 
-![Revenue](revenue.png)
+![Revenue](screenshots/revenue.png)
 
 ### Top 5 Pizzas
 
-![Top Pizzas](top_pizzas.png)
+![Top Pizzas](screenshots/top_pizzas.png)
 
 ---
 
