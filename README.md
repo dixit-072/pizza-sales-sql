@@ -24,14 +24,22 @@ The goal is to solve real-world business questions using structured query techni
 
 ---
 
-## 📂 Dataset
+## 📂 Dataset Description
 
-The dataset includes:
+The dataset consists of four relational tables:
 
-* **orders** – order date & time
-* **order_details** – quantity per order
-* **pizzas** – size & price
-* **pizza_types** – name & category
+* **orders**
+  Contains order-level details such as **order_id, order_date, and order_time**, used to analyze ordering patterns over time.
+
+* **order_details**
+  Stores transaction-level data including **order_id, pizza_id, and quantity**, representing the number of pizzas in each order.
+
+* **pizzas**
+  Includes information about pizzas such as **pizza_id, size, and price**, used for revenue analysis.
+
+* **pizza_types**
+  Contains details like **pizza_type_id, name, and category**, helping classify pizzas into different categories.
+
 
 ---
 
